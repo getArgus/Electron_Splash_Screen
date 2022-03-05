@@ -22,7 +22,7 @@ git clone https://github.com/
 # Go into the repository
 cd Electron-Splash-Screen-start
 # Install dependencies
-npm install
+yarn
 # Run the app
 npm start
 ```
